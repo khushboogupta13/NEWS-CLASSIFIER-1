@@ -10,6 +10,8 @@
 
 ![Image of Web Application](https://github.com/khushboogupta13/NEWS-CLASSIFIER-1/blob/master/Fake%20News%20Prediction.jpeg)
 
+**Working demo of the web application can be seen here: https://youtu.be/rykRQwRf894**.
+
 >## &nbsp; TECHNOLOGY USED
 
 1. [Python](https://www.python.org/) (several of its libraries like [scikit-learn](https://scikit-learn.org/stable/), [nltk](https://www.nltk.org/), [matplotlib](https://matplotlib.org/), [numpy](https://numpy.org/) and [pandas](https://pandas.pydata.org/)) for building the model.
